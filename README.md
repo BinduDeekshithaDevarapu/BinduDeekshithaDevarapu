@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hellooooo!!!!&pause=700&;Welcome+to+my+GitHubverse!&pause=700&;I'm+Bindu+Deekshitha&pause=700&;Nice+to+meet+you!!&pause=700&)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hellooooo!!!!&duration=3000&pause=700&;Welcome+to+my+GitHubverse!&duration=3000&pause=700&;I'm+Bindu+Deekshitha&duration=3000&pause=700&;Nice+to+meet+you!!&duration=3000&pause=700&)](https://git.io/typing-svg)
 
 <!--
 **BinduDeekshithaDevarapu/BinduDeekshithaDevarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
